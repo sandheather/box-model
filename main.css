@@ -1,8 +1,9 @@
 html{
-	background-color: purple;
+	background-color: black;
 }
 
 h1{
-	background-color: blue;
+	background-color: white;
 	padding: 1em 2em 0.5em 3em;
+	margin:0;
 }
