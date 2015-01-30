@@ -13,3 +13,7 @@ h1{
 	border:5px dotted #000;
 	border-radius: 10px;
 }
+
+a{
+	background-color: white;
+}
