@@ -22,3 +22,7 @@ a{
 nav{
 	background color: green;
 }
+
+nav ul{
+	list-style-type: none;
+}
